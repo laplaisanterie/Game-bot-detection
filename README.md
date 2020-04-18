@@ -4,6 +4,7 @@ MMORPG와 같은 온라인 게임에서 게임 내 재화, 아이템의 환금�
 
 ### 최종 결과 
 https://www.kisis.or.kr/kisis/subIndex/282.do
+<img src="results.png" width="80%" height="40%">
 
 
 ### 대회 일정
