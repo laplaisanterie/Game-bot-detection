@@ -3,8 +3,10 @@
 MMORPG와 같은 온라인 게임에서 게임 내 재화, 아이템의 환금성을 악용하여 대량의 캐릭터를 운용하여 수입을 얻는 “작업장”은 게임 밸런스를 해치고 게임 회사와 일반 이용자에게 큰 피해를 주고 있습니다. 작업장에서 이용하는 게임봇은 환금성이 있는 재화나 아이템을 채굴하기 위해 특정 행위를 반복하는 경우가 많습니다.
 
 ### 최종 결과 
+
+<img src="results.png" width="100%" height="100%">
+<br>
 https://www.kisis.or.kr/kisis/subIndex/282.do
-<img src="results.png" width="80%" height="40%">
 
 
 ### 대회 일정
